@@ -1,0 +1,8 @@
+{
+  "name": "flask-app",
+  "version": "1.0.0",
+  "main": "app.py",
+  "scripts": {
+    "start": "bash start.sh"
+  }
+}
